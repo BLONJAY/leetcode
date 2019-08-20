@@ -1,12 +1,12 @@
 # leetcode
 Week 1  
 
-* [26. Remove Duplicates from Sorted Array](week 1-26. Remove Duplicates from Sorted Array.md)
-* [189. Rotate Array](week 1-189. Rotate Array.md)
-* [268. Missing Number](week 1-268. Missing Number.md)
+* [26. Remove Duplicates from Sorted Array](week_1_26_Remove_Duplicates_from_Sorted_Array.md)
+* [189. Rotate Array](week_1_189_Rotate_Array.md)
+* [268. Missing Number](week_1_268_Missing_Number.md)
 
 
 Week 2
-* [204. Count Primes](week 2-204. Count Primes.md)
-* [242. Valid Anagram](week 2-242. Valid Anagram.md)
-* [350. Intersection of Two Arrays II](week 2-350. Intersection of Two Arrays II .md)
+* [204. Count Primes](week_2_204_Count_Primes.md)
+* [242. Valid Anagram](week_2_242_Valid_Anagram.md)
+* [350. Intersection of Two Arrays II](week_2_350_Intersection_of_Two_Arrays_II.md)
