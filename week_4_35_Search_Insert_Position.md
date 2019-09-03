@@ -29,7 +29,7 @@ Output: 0
 成功的版本
 
 
-``` 
+``` c
 int searchInsert(int* nums, int numsSize, int target){
     int lastGap = 0;
     int NowGap = 0;
