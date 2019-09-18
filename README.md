@@ -42,6 +42,8 @@ Week 6 - [trello][Week 6]
 * [217. Contains Duplicate](week_7_217_Contains_Duplicate.md)
 * [746. Min Cost Climbing Stairs](week_7_746_Min_Cost_Climbing_Stairs.md)
 
+
+
 [Week 1]: https://trello.com/b/p1post9D/week1
 [Week 2]: https://trello.com/b/N4vDDtGN/week2
 [Week 3]: https://trello.com/b/znRAOeMp/week3
@@ -49,3 +51,16 @@ Week 6 - [trello][Week 6]
 [Week 5]: https://trello.com/b/1dewq3k2/week5
 [Week 6]: https://trello.com/b/9VPLF3Z5/week6
 [Week 7]: https://trello.com/b/5k1gQMmr/week7
+
+
+如何提升 學習效率
+邊運行 邊複製  錯誤訊息
+邊記錄google 關鍵字
+
+參考david 哥
+寫單元測試
+henry說 寫TDD 跟 寫leedcode一樣
+
+[從LeetCode學演算法 - 0][blog1]
+
+[blog1]: https://medium.com/@desolution/%E5%BE%9Eleetcode%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-0-6c121bd8b579
