@@ -42,6 +42,25 @@ Week 6 - [trello][Week 6]
 * [217. Contains Duplicate](week_7_217_Contains_Duplicate.md)
 * [746. Min Cost Climbing Stairs](week_7_746_Min_Cost_Climbing_Stairs.md)
 
+Week 8
+* [1. Two Sum](week_8_1_Two_Sum.md)
+* [122. Best Time to Buy and Sell Stock II](week_8_122_Best_Time_to_Buy_and_Sell_Stock_II.md)
+* [448. Find All Numbers Disappeared in an Array](week_8_448_Find_All_Numbers_Disappeared_in_an_Array.md)
+
+Week 9
+* [169. Majority Element](week_9_38_Count_and_Say.md)
+* [205. Isomorphic Strings](week_9_205_Isomorphic_Strings.md)
+* [226. Invert Binary Tree](week_9_226_Invert_Binary_Tree.md)
+
+Week 10
+* [21.  Merge Two  Sorted Lists](week_10_21_Merge_Two_Sorted_Lists.md)
+* [155. Min Stack](week_10_155_Min_Stack.md)
+* [206. Reverse Linked List](week_10_206_Reverse_Linked_List.md)
+    
+Week 11
+* [506. Relative Ranks ](week_11_506_Relative_Ranks.md)
+* [563. Binary Tree Tilt](week_11_563_Binary_Tree_Tilt.md)
+* [1154. Day of year](week_11_1154_Day_of_year.md)
 
 
 [Week 1]: https://trello.com/b/p1post9D/week1
